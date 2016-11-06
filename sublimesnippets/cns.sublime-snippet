@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+import cns from 'classnames';${1}
+]]></content>
+<tabTrigger>cns</tabTrigger>
+</snippet>
