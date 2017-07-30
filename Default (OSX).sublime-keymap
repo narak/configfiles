@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+x"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+    { "keys": ["super+b"], "command": "js_prettier" }
+]
